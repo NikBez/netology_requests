@@ -23,4 +23,3 @@ def find_smartest_hero(targets):
 if __name__ == '__main__':
     hero = find_smartest_hero(['Hulk', 'Captain America', 'Thanos'])
     print(hero)
-
